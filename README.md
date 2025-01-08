@@ -1,0 +1,35 @@
+# LLD Topics  
+- Strategy Pattern  
+- Observer Pattern  
+- Decorator Pattern  
+- Factory Pattern  
+- Abstract Factory Pattern  
+- Chain of Responsibility Pattern  
+- Proxy Pattern  
+- Null Object Pattern  
+- State Pattern  
+- Composite Pattern  
+- Adapter Pattern  
+- Singleton Pattern  
+- Builder Pattern  
+- Prototype Pattern  
+- Bridge Pattern  
+- Facade Pattern  
+- Flyweight Pattern  
+- Command Pattern  
+- Iterator Pattern  
+- Mediator Pattern  
+- Memento Pattern  
+- Template Pattern  
+- Interpreter Pattern  
+- SOLID Principles  
+- Design Splitwise  
+- Design BookmyShow  
+- Design ATM  
+- Design Snake n Ladder  
+- Design Tic Tac Toe  
+- Design Elevator System  
+- Design Parking Lot  
+- Design Car Rental System  
+- Design Inventory Management System  
+- Design Cricbuzz
